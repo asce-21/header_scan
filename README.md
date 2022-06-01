@@ -1,6 +1,28 @@
 # header_scan
 Learning Python automation from  [Hacking Simplified](https://www.youtube.com/c/HackingSimplifiedAS) video.
 
-This script is also result of the [video](https://youtu.be/Wf8wIzFzbFU) from the Python automation series.
+This script is the result of steps introduced in the [video](https://youtu.be/Wf8wIzFzbFU) from the Python automation series.
 
-I learn along and try to create the Web Scanner by following the steps from the series as progressed.
+I will learn along and try to create the Web Scanner by following the steps from the series as progressed.
+
+## First Step
+
+Run requirements.txt first to make sure all modules used in the script are installed
+
+`pip install -r requirements.txt`
+
+## Usage
+
+`python scan.py https://example.com` 
+
+It will check if following Basic Security Headers are present/missing in the application response:
+
+X-Frame-Options
+
+X-XSS-Protection
+
+X-Content-Type-Options
+
+Strict-Transport-Security
+
+Content-Security-Policy
