@@ -7,13 +7,17 @@ I will learn along and try to create the Web Scanner by following the steps from
 
 ## First Step
 
+Git clone the repo for linux or Download Zip file
+
+`git clone https://github.com/asce-21/header_scan.git`
+
 Run requirements.txt first to make sure all modules used in the script are installed
 
 `pip install -r requirements.txt`
 
 ## Usage
 
-`python scan.py https://example.com` 
+`python header_scan.py https://example.com` 
 
 It will check if following Basic Security Headers are present/missing in the application response:
 
