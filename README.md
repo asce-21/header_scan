@@ -17,7 +17,7 @@ Run requirements.txt first to make sure all modules used in the script are insta
 
 ## Usage
 
-`python header_scan.py https://example.com` 
+`python header_scan.py https://www.example.com` 
 
 It will check if following Basic Security Headers are present/missing in the application response:
 
