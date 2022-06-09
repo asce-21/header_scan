@@ -1,5 +1,5 @@
 # header_scan
-Learning Python automation from  [Hacking Simplified](https://www.youtube.com/c/HackingSimplifiedAS) video.
+Learning Python automation from  [Hacking Simplified's](https://www.youtube.com/c/HackingSimplifiedAS) video.
 
 This script is the result of steps introduced in the video from the [Python automation series.](https://youtube.com/playlist?list=PLGJe0xGh7cH35HAafEp0JWAjxO0-7qrJi)
 
