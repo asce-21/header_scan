@@ -1,7 +1,7 @@
 # header_scan
 Learning Python automation from  [Hacking Simplified](https://www.youtube.com/c/HackingSimplifiedAS) video.
 
-This script is the result of steps introduced in the [video](https://youtu.be/Wf8wIzFzbFU) from the Python automation series.
+This script is the result of steps introduced in the video from the [Python automation series.](https://youtube.com/playlist?list=PLGJe0xGh7cH35HAafEp0JWAjxO0-7qrJi)
 
 I will learn along and try to create the Web Scanner by following the steps from the series as progressed.
 
